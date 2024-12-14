@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fuady and I'm a Fullstack Deveoloper, from Gresik, East Java</h2>
+<h2 align="left">Hi 👋! My name is Fuady and I'm a Fullstack Deveoloper, From Gresik. East Java</h2>
 
 ###
 
