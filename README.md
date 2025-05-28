@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img src="https://media.tenor.com/m1eI0uVgd8EAAAAM/vj.gif" align="left" />
+  <img src="https://media.tenor.com/m1eI0uVgd8EAAAAM/vj.gif" style="border-radius: 50%;" />
 </div>
 
 ###
