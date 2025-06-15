@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋, I'm Fuady</h2>
-<h4 align="left">Web Developer from Gresik, East Java 🇮🇩</h4>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fuady;Web+Developer+from+Gresik%2C+East+Java+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+</h1>
 
 <br>
 
@@ -24,16 +25,16 @@
 
 <br>
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 <p align="left">
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
