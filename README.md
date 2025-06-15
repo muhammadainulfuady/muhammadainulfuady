@@ -39,4 +39,4 @@
 </p>
 
 <!-- Optional Snake Animation -->
-<!-- <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/raw/output/github-contribution-grid-snake-dark.svg" /> -->
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/raw/output/github-contribution-grid-snake-dark.svg" />
