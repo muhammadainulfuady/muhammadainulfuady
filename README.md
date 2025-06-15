@@ -25,18 +25,5 @@
 
 <br>
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="mailto:yourname@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
 <!-- Optional Snake Animation -->
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/raw/output/github-contribution-grid-snake-dark.svg" />
