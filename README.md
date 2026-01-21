@@ -61,13 +61,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="36" height="25" alt="twitch logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="36" height="25" alt="devto logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadainulfuady/muhammadainulfuady/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadainulfuady/muhammadainulfuady/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammadainulfuady/muhammadainulfuady/output/pacman-contribution-graph.svg">
-</picture>
-
-###
