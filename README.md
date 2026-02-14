@@ -44,7 +44,7 @@
 </h1>
 
 <p align="center">
-  - Belajar backend deveoloper
+  Mostly Backend Deveoloper
 </p>
 
 ---
