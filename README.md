@@ -1,5 +1,5 @@
 <p align="center">
-  Mobile & Mostly Backend Deveoloper
+  Mobile & Backend Deveoloper
 </p>
 
 ---
