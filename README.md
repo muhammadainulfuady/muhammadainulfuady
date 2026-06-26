@@ -1,5 +1,1 @@
-
-pokok ijo
-o
-o
-ppp
+ijo terso
