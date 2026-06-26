@@ -1,1 +1,1 @@
-ijo terso
+losta
