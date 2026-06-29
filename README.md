@@ -1,1 +1,1 @@
-losta
+update terus gpp kan?
