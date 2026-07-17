@@ -2,7 +2,7 @@
   ~ About Me ~
 </div>
 
-Hello there! Here is a list of things about me:
+Hello there! Here is a list of things about me
 > - You can call me "Fuady" or "Adi".
 > - I am currently studying and focusing mostly on back-end development.
 > - I also know a little bit about front-end development.
